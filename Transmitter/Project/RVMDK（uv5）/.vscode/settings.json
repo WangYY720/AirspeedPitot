@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "airspeed.h": "c",
+        "oled.h": "c",
+        "ioi2c.h": "c",
+        "mpu6050.h": "c",
+        "ms4525do.h": "c"
+    }
+}
